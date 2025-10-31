@@ -65,9 +65,9 @@
             <div class="participants-section">
               <strong>Participants:</strong>
               <ul class="participants-list">
-                ${info.participants.length === 0
+                ${info.participant.length === 0
                   ? '<li class="no-participants">No participants yet.</li>'
-                  : info.participants.map(email => `<li>${email}</li>`).join('')}
+                  : info.participant.map(email => `<li>${email}</li>`).join('')}
               </ul>
             </div>
           `;
