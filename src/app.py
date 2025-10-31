@@ -28,7 +28,7 @@ activities = {
         "participants": [
             "michael@mergington.edu",
             "daniel@mergington.edu",
-            "sarah@mergington.edu"
+            "sarah@mergington.edu" 
         ]
     },
     "Programming Class": {
